@@ -14,7 +14,7 @@ const Overview = () => {
                 <div className="grid grid-cols-1 max-w-7xl w-full mx-auto sm:grid-cols-3 gap-6 p-6">
                     {/* Directly rendering each item */}
                     <div
-                        className="bg-white flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
+                        className=" flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
                         <div className="bg-[#28c76f]/10 p-2 rounded will-change-transform">
                             <img src="/upload-4a29641d-8114-4271-b684-0f7cf8fe7303%203.svg"
                                  className="h-10 w-10 mx-auto text-gray-800 dark:text-gray-200"/>
@@ -27,7 +27,7 @@ const Overview = () => {
                     </div>
 
                     <div
-                        className="bg-white flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
+                        className=" flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
                         <div className="bg-[#28c76f]/10 p-2 rounded will-change-transform">
                             <img src="/upload-4a29641d-8114-4271-b684-0f7cf8fe7303%202.svg"
                                  className="h-10 w-10 mx-auto text-gray-800 dark:text-gray-200"/>
@@ -41,7 +41,7 @@ const Overview = () => {
                     </div>
 
                     <div
-                        className="bg-white flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
+                        className=" flex border border-white/5 gap-3 justify-center items-center backdrop-blur-md bg-black/10 rounded-lg p-4  transition duration-200 ease-in-out transform hover:scale-105">
                         <div className="bg-[#28c76f]/10 p-2 rounded will-change-transform">
                             <img src="/upload-4a29641d-8114-4271-b684-0f7cf8fe7303%201.svg"
                                  className="h-10 w-10 mx-auto text-gray-200 dark:text-gray-200"/>
